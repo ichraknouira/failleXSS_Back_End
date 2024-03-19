@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/ichraknouira/failleXSS_Back_End#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "express": "^4.18.3"
   }
